@@ -1,6 +1,6 @@
 ![](https://github.com/196Sebastian/drawing-app/blob/main/Drawing_App.png) 
 
-# Project Description ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F196Sebastian)
+# Project Description 
 - This paint canvas application allows users to draw and or trace any images they have stored in their device.
 - Users can choose the size of the brush starting from small, medium and large.
 - Very beginner friendly with the option to trace an image, users can import any image they have stored in their device with their permission to access the storage files. 
@@ -19,5 +19,5 @@
 
 # 🔔 Contact Me!
 
-  [📝 Portfolio](https://sebastiancorrea.netlify.app/) • [💼 Linkedin](https://www.linkedin.com/in/sebastian-correa-b6858b177/) • [🐤 Twitter](https://twitter.com/196Sebastian) • [📱 Check Out Another Project!](https://github.com/196Sebastian/jet-biz-card)
+  [📝 Portfolio](https://sebastiancorrea.netlify.app/) • [💼 Linkedin](https://www.linkedin.com/in/sebastian-correa-b6858b177/) • [📱 Check Out Another Project!](https://github.com/196Sebastian/jet-biz-card)
   
